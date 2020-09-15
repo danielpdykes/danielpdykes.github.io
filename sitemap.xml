@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>https://danielpdykes.com/technology/apple-u1-chip-importance.html</loc>
+      
+        <lastmod>2019-09-11T11:58:33+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade.html</loc>
       
         <lastmod>2017-07-04T16:33:36+01:00</lastmod>
@@ -187,7 +202,7 @@
     <url>
       <loc>https://danielpdykes.com/404.html</loc>
       
-        <lastmod>2020-09-14T18:27:02+01:00</lastmod>
+        <lastmod>2020-09-15T11:30:54+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -202,7 +217,7 @@
     <url>
       <loc>https://danielpdykes.com/css/main.css</loc>
       
-        <lastmod>2020-09-14T18:27:02+01:00</lastmod>
+        <lastmod>2020-09-15T11:30:54+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -219,7 +234,7 @@
     <url>
       <loc>https://danielpdykes.com/feed.xml</loc>
       
-        <lastmod>2020-09-14T18:27:02+01:00</lastmod>
+        <lastmod>2020-09-15T11:30:54+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -234,7 +249,7 @@
     <url>
       <loc>https://danielpdykes.com/connected-home/</loc>
       
-        <lastmod>2020-09-14</lastmod>
+        <lastmod>2020-09-15</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -249,7 +264,7 @@
     <url>
       <loc>https://danielpdykes.com/connected-home/page-2.html</loc>
       
-        <lastmod>2020-09-14</lastmod>
+        <lastmod>2020-09-15</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -264,7 +279,7 @@
     <url>
       <loc>https://danielpdykes.com/</loc>
       
-        <lastmod>2020-09-14</lastmod>
+        <lastmod>2020-09-15</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -279,7 +294,37 @@
     <url>
       <loc>https://danielpdykes.com/page-2.html</loc>
       
-        <lastmod>2020-09-14</lastmod>
+        <lastmod>2020-09-15</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>1.0</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://danielpdykes.com/technology/</loc>
+      
+        <lastmod>2020-09-15</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>1.0</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://danielpdykes.com/technology/page-2.html</loc>
+      
+        <lastmod>2020-09-15</lastmod>
       
       
         <changefreq>monthly</changefreq>
