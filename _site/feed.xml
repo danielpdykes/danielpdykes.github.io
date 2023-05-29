@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://danielpdykes.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://danielpdykes.com/" rel="alternate" type="text/html" /><updated>2020-10-04T19:05:16+01:00</updated><id>https://danielpdykes.com/feed.xml</id><title type="html">Daniel P Dykes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Daniel P Dykes</name></author><entry><title type="html">Apple glasses: iOS 14 gives accessibility feature preview</title><link href="https://danielpdykes.com/technology/apple-glasses-people-detection.html" rel="alternate" type="text/html" title="Apple glasses: iOS 14 gives accessibility feature preview" /><published>2020-09-18T09:50:36+01:00</published><updated>2020-09-18T09:50:36+01:00</updated><id>https://danielpdykes.com/technology/apple-glasses-people-detection</id><content type="html" xml:base="https://danielpdykes.com/technology/apple-glasses-people-detection.html">&lt;p&gt;An accessibility feature set for &lt;a href=&quot;https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade.html&quot;&gt;Apple glasses&lt;/a&gt; has been revealed in a beta edition of iOS 14.2.&lt;/p&gt;
+
+&lt;p&gt;Today’s first beta reveals a new ‘People Detection’ feature is set to come to iPhones. This new accessibility tool uses an iPhone’s camera to assist people with vision impairment in understanding their proximity to other people nearby, communicating the estimated distance between the carrier and those people.&lt;/p&gt;
+
+&lt;p&gt;What’s undoubtedly a good feature for iPhone is a better feature for Apple glasses, provided the BOM contains a forward facing camera or another suitable sensor. Battery life and privacy concerns leave a big question mark hanging over either.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="technology" /><category term="apple" /><category term="wearables" /><summary type="html">An accessibility feature set for Apple glasses has been revealed in a beta edition of iOS 14.2.</summary></entry><entry><title type="html">Apple U1 chip: Apple Watch 6 features ultra-wideband technology</title><link href="https://danielpdykes.com/technology/apple-u1-chip-apple-watch.html" rel="alternate" type="text/html" title="Apple U1 chip: Apple Watch 6 features ultra-wideband technology" /><published>2020-09-16T20:54:33+01:00</published><updated>2020-09-16T20:54:33+01:00</updated><id>https://danielpdykes.com/technology/apple-u1-chip-apple-watch</id><content type="html" xml:base="https://danielpdykes.com/technology/apple-u1-chip-apple-watch.html">&lt;p&gt;&lt;a href=&quot;https://danielpdykes.com/technology/apple-u1-chip-importance.html&quot;&gt;Apple’s U1 chips are its new trojan&lt;/a&gt; and its likely that we’ll see this Apple-exclusive interpretation of ultra-wideband technology come to most of the maker’s premium devices through 2020 and 2021. U1 chips clearly aren’t cheap for Apple at this stage as they strictly add them to the build-of-materials of their devices with the best margin. Hence, yesterday’s unveiling of new Apple Watch models sees the U1 chip added to the new, premium Apple Watch 6 but not added to the middle-market Apple Watch SE.&lt;/p&gt;
+
+&lt;p&gt;That makes Apple Watch 6 the first of Apple’s wearables to feature U1 technology. But to what end? To date, U1 has had lacklustre application and has own powered an &lt;em&gt;enhanced AirDrop&lt;/em&gt; use-case. As I penned last year, Apple’s investment in UWB / U1 would never have such a narrow focus.&lt;/p&gt;
+
+&lt;p&gt;Apple Watch 6 presents a new application for U1, Apple’s remote automobile entry platform &lt;em&gt;Car Key&lt;/em&gt;. Car Key allows compatible vehicle owners to forgo use of car keys and enter their phone with iPhone 11 or Apple Watch 6. The play here is for U1 as a proximity tool and, thus, an added security and usability tool.&lt;/p&gt;
+
+&lt;p&gt;With the iPhone 12 launch event expected to take place in October, we should see a further expansion of Apple’s U1 platform with the technology appearing in&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iPhone 12, iPhone 12 Pro, and iPhone 12 Max. I’d wager that we shan’t see U1 in iPhone 12 Mini / 12mini&lt;/li&gt;
+  &lt;li&gt;AirTags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Come November, we’re also likely to see U1 added to new edition AirPods Pro and AirPods Studio. In the latter, expect U1 to power Apple’s virtual surround sound technology, Spatial Audio.&lt;/p&gt;
+
+&lt;p&gt;Surround sound used to be a hardware play, but software eats the world. It just needs the right chip to make it happen.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="technology" /><category term="apple" /><category term="wearables" /><summary type="html">Apple’s U1 chips are its new trojan and its likely that we’ll see this Apple-exclusive interpretation of ultra-wideband technology come to most of the maker’s premium devices through 2020 and 2021. U1 chips clearly aren’t cheap for Apple at this stage as they strictly add them to the build-of-materials of their devices with the best margin. Hence, yesterday’s unveiling of new Apple Watch models sees the U1 chip added to the new, premium Apple Watch 6 but not added to the middle-market Apple Watch SE.</summary></entry><entry><title type="html">Apple’s new trojan: U1 chip is for more than just AirDrop.</title><link href="https://danielpdykes.com/technology/apple-u1-chip-importance.html" rel="alternate" type="text/html" title="Apple’s new trojan: U1 chip is for more than just AirDrop." /><published>2019-09-11T11:58:33+01:00</published><updated>2019-09-11T11:58:33+01:00</updated><id>https://danielpdykes.com/technology/apple-u1-chip-importance</id><content type="html" xml:base="https://danielpdykes.com/technology/apple-u1-chip-importance.html">&lt;p&gt;&lt;em&gt;&quot;Apple has always been great at creating multi-purpose products. A lot of them have been trojan products; one thing today, another, even more advanced thing a year later when its new OS is released.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Trojan horses are not just the means by which Greeks can conquer Anatolians, they’re also the means by which tech companies can build ecosystems. I penned the above paragraph when highlighting how many an Apple consumer had already purchased a &lt;a href=&quot;https://danielpdykes.com/connected-home/apple-homekit-gateway.html&quot;&gt;HomeKit hub&lt;/a&gt; without having ever intended to do so — through software updates for iPads and Apple TVs, the company was extending existing devices people owned to serve as a gateway and hub for home automation. In this week’s unveiling of the iPhone 11 and iPhone 11 Pro, we see Apple laying the foundation for a further extension of its ecosystem. And further consumer lock-in into that ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Apple’s &lt;em&gt;U1 Chip&lt;/em&gt; was announced in a blink-and-you’ll-miss-it fashion. No grand exploration of the new technology was offered during the keynote, just a short reference to new phones containing an “Apple-designed U1 chip.” It’s on Apple’s own website that we learn  more about U1 and what (they claim) it is for;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Ultra Wideband technology comes to iPhone.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;The new Apple‑designed U1 chip uses Ultra Wideband technology for spatial awareness — allowing iPhone 11 to precisely locate other U1‑equipped Apple devices. Think GPS at the scale of your living room. So if you want to share a file with someone using AirDrop, just point your iPhone at theirs and they’ll be first on the list.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Can you be more precise? Yes.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;The new Apple‑designed U1 chip uses Ultra Wideband technology for spatial awareness — allowing iPhone 11 Pro to precisely locate other U1‑equipped Apple devices. It’s like adding another sense to iPhone, and it’s going to lead to amazing new capabilities.&lt;/p&gt;
+
+  &lt;p&gt;With U1 and iOS 13, you can point your iPhone toward someone else’s, and AirDrop will prioritize that device so you can share files faster.&lt;/p&gt;
+
+  &lt;p&gt;And that’s just the beginning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ultra-wideband technology, a serious R&amp;amp;D investment, custom silicon design, and all for directional AirDrop. Hardly. This is Apple laying a longterm foundation whereby U1 (and its U2, and upwards, successors) chips will feature in most of their future devices.&lt;/p&gt;
+
+&lt;p&gt;Consider what ultra-wideband technology really is: a low-power method by which to understand and assay spaces. With its applications in ‘see-through-the-wall’ radar-imaging technology, precise locating and tracking, and precise time-till-location calculations we can make some assumptions about where Apple’s ecosystem and Tim Cook’s lock-in focus will utilise U1.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dedicated device tracker product&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Apple has been known to Sherlock apps, whereby it incorporates some, or all, the features of indie-developer product natively within iOS. U1 will enable Apple to Sherlock entire device tracking ecosystems and wrap it within their own. No stranger to this space given their ill-fated iBeacon play, U1 ought to signal a death knell for &lt;a href=&quot;https://www.thetileapp.com&quot;&gt;Tile&lt;/a&gt; and their ilk. Instead of a  Tile, we’re likely to soon be able to buy into an Apple successor to iBeacons (don’t expect the i prefix nor use of the word beacon). And where Tile have struggle to build an ecosystem that allows for devices to be located with great accuracy, expect Apple to piggyback their existing &lt;em&gt;Find my iPhone&lt;/em&gt; technology and relay U1 communications anonymously and securely through all iPhone 11s everywhere giving Apple an instant and global network effect for their Tile play. Of course, that instant network can only be developed sometime after there are enough Apple U1 chips in the wild, so you can imagine that an Apple device tracker won’t be released for 12 to 24 months yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple Watch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Putting a U1 chip upon people’s arms would work to the benefit of a device tracking network. But it can enhance other areas of the Apple ecosystem as well. With some bias, I posit that a U1 equipped Apple Watch would serve as a perfect tool by which to determine &lt;a href=&quot;https://danielpdykes.com/connected-home/presence-detection-home-control.html&quot;&gt;presence location&lt;/a&gt; for HomeKit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future iPhones&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Given they are in the iPhone 11, it goes without saying that future iPhones will feature U1 chip. The outlier may be entry-level iPhones such as the SE model. These are low-cost plays for Apple and the cost of U1 may make its inclusion in a low-cost iPhone prohibitive.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future AirPods&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;U1 chips within future AirPods won’t extend the Apple ecosystem, but they’ll certain enhance the appeal of it and further consumer lock-in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple TV remote control&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Remote controls oft get misplaced in a home. A U1 chip is a simple solution, mayhap too expensive for it though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;API, LocationKit, and chip sales&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Apple seldom open up access to new APIs in the first years of the existence, but the Apple ecosystem would benefit from controlled-access to U1’s technology as developers would bring about a multiplier effect. Thus, expect something akin to a LocationKit and developer access to the core technology and potentially to U1 successor chips as part of MFI certification. If Apple doesn’t offer presence detection within HomeKit natively, developers certainly will. And then Apple shall certainly Sherlock them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple glasses&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;They won’t be cheap and people are prone to losing their glasses. Precise location awareness thus becomes mandatory on &lt;a href=&quot;https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade.html&quot;&gt;Apple glasses&lt;/a&gt;. The radar aspect of ultrawide-band technology could also be employed to help Apple glasses interpret their environment and user interaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HomePod&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Its sales outstripped by cheaper offers from Amazon and Google, it’s prescient to assume that we will one day see a HomePod Mini. We’ll also see a successor HomePod itself. Whether or not the U1 chip features in either HomePod or HomePod Mini will tell us just how important in-home presence detection is to Apple’s ecosystem. I suspect they see far less money in HomeKit than they do in the likes of Apple glasses, health, and other new wearables.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HomeKit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;See AppleWatch, LocationKit, and HomePod above.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="technology" /><category term="Apple" /><summary type="html">&quot;Apple has always been great at creating multi-purpose products. A lot of them have been trojan products; one thing today, another, even more advanced thing a year later when its new OS is released.&quot;</summary></entry><entry><title type="html">Apple Iris glasses: what we know about Project Mirrorshades.</title><link href="https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade.html" rel="alternate" type="text/html" title="Apple Iris glasses: what we know about Project Mirrorshades." /><published>2017-07-04T16:33:36+01:00</published><updated>2017-07-04T16:33:36+01:00</updated><id>https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade</id><content type="html" xml:base="https://danielpdykes.com/technology/apple-glasses-iris-project-mirrorshade.html">&lt;p&gt;&lt;img src=&quot;/images/P3-spectacles.jpeg&quot; alt=&quot;future of iot&quot; /&gt;&lt;em&gt;&lt;small&gt;P3 spectacles; the base shape for Apple Iris smart glasses.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;While discussing IoT at a 2016 World Economic Forum symposium I posited that Apple’s AirPods weren’t mere headphones: they were the first step to a new breed of wearables. Amongst other things, AirPods contain a W1 chip, accelerometers and infrared sensors: these are no mere headphones, they’re a mini-computer. And they’ll increasingly become more complex.&lt;/p&gt;
+
+&lt;p&gt;But along with Apple Watch, AirPods aren’t Apple’s only interest in convergence based wearables. Long rumoured to be working on their own version of wearable glasses, here’s what we now know about Apple Iris, working title &lt;em&gt;Project Mirrorshades&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A verified trio of leakers who work within the Taiwanese arm of Hon Hai (Foxconn) and typically sell their reports to KGI leaked the following to /r/apple in a Q&amp;amp;A;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shape: P3, as above.&lt;/li&gt;
+  &lt;li&gt;Resolution: 428x240 pixels.&lt;/li&gt;
+  &lt;li&gt;Sound: bone conduction. Zungle have a good example of fashion glasses paired with bone conduction headphones.&lt;/li&gt;
+  &lt;li&gt;Microphone: akin to AirPods including noise cancellation.&lt;/li&gt;
+  &lt;li&gt;Sensors: light sensor, accelerometer for step and head tracking, magnetometer&lt;/li&gt;
+  &lt;li&gt;Interfaces: voice via Siri as with AirPods, capacitive touch panel on the arm of the frame used for basic touch control.&lt;/li&gt;
+  &lt;li&gt;Near-eye-display (NED) sourced from Kopin on the right eye. Future units would offer 2 NEDs, but they’re battery intensive and battery technology is not where it needs to be for 2 to be possible.&lt;/li&gt;
+  &lt;li&gt;Zeiss Smart Optics allowing for the 428x240 ‘screen’ to be projected onto the lenses utilising Fresnel lenses. I’m told that Apple required Zeiss to pull part of this tech from their CES display at the last minute with another company in the HomeKit field facing the same issue.&lt;/li&gt;
+  &lt;li&gt;Acetate frame as with most fashion glasses. Available in crystal, champagne, and black. Different frame sizes for men and women.&lt;/li&gt;
+  &lt;li&gt;Full selling opportunity for Apple; they’ll be available with polarised, clear or prescription lenses.&lt;/li&gt;
+  &lt;li&gt;Bluetooth Low Energy 5&lt;/li&gt;
+  &lt;li&gt;Consumer price point based on BOM: ~US$600&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Daniel P Dykes</name></author><category term="technology" /><category term="Apple" /><summary type="html">P3 spectacles; the base shape for Apple Iris smart glasses.</summary></entry><entry><title type="html">CES question: voice first or voice gimmick?</title><link href="https://danielpdykes.com/connected-home/voice-controller-ui-ces-2017.html" rel="alternate" type="text/html" title="CES question: voice first or voice gimmick?" /><published>2017-01-20T15:33:36+00:00</published><updated>2017-01-20T15:33:36+00:00</updated><id>https://danielpdykes.com/connected-home/voice-controller-ui-ces-2017</id><content type="html" xml:base="https://danielpdykes.com/connected-home/voice-controller-ui-ces-2017.html">&lt;p&gt;This was the first Voice First CES and it’ll be the first of many. Where electronics dependent on the iOS ecosystem had once reigned, “Works with Alexa” seemed to be CES 2017’s war cry. No other company nor enjoyed concept so much free advertising.&lt;/p&gt;
+
+&lt;p&gt;Which led to debates as to whether it’ll last. I was often challenged: are the likes of Alexa, Google Home, and their brethren merely gimmicks? (Thankfully that’s not a direct quote and no one genuinely talks like that.) Will Voice First happen?&lt;/p&gt;
+
+&lt;p&gt;Yes, but in limited environments at first. Namely the home and the car.&lt;/p&gt;
+
+&lt;p&gt;Contrary to where some people focus the debate, voice is a user interface no more gimmicky than a touchscreen. And it’s an interface that, in a home, is far more natural than a smartphone app. In a car, both more convenient and legal.&lt;/p&gt;
+
+&lt;p&gt;Consider the interface options that exist within a connected home right now for an action as minor as turning on a light;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Find your phone, login, open an app, find the relevant app screen, and turn on your lights;&lt;/li&gt;
+  &lt;li&gt;Walk to your wall switch and turn on you lights;&lt;/li&gt;
+  &lt;li&gt;Say “Alexa, turn on my lights.”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The third is inarguably the easiest and, as IoT devices continue to become commodities, 3 becomes frictionless in comparison to both 1 and 2.
+Of course, Voice First has many other areas of consumer appeal apart from smart home control. “Alexa, what’s the traffic like?” “Alexa, play my morning wake up playlist.” “Alexa, text my girlfriend I love her.”&lt;/p&gt;
+
+&lt;p&gt;All easier via voice than via a smartphone app or desktop computer provided, of course, that the surrounds are cohesive to the instruction. All voice commands above are embarrassment free within the context of your home or car, but voice commands issued in a busy, public space won’t always feel so unexceptional.&lt;/p&gt;
+
+&lt;p&gt;Voice First will happen. Voice is our most natural user interface and means of communication, so much so that research firm Gartner predicts that by 2018 some 30% of current touchscreen actions will be performed via voice control instead. That in itself is huge.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="connected-home" /><category term="Amazon" /><summary type="html">This was the first Voice First CES and it’ll be the first of many. Where electronics dependent on the iOS ecosystem had once reigned, “Works with Alexa” seemed to be CES 2017’s war cry. No other company nor enjoyed concept so much free advertising.</summary></entry><entry><title type="html">A lack of privacy stands to derail voice controlled IoT systems.</title><link href="https://danielpdykes.com/connected-home/voice-controller-ui-privacy.html" rel="alternate" type="text/html" title="A lack of privacy stands to derail voice controlled IoT systems." /><published>2016-12-28T15:33:36+00:00</published><updated>2016-12-28T15:33:36+00:00</updated><id>https://danielpdykes.com/connected-home/voice-controller-ui-privacy</id><content type="html" xml:base="https://danielpdykes.com/connected-home/voice-controller-ui-privacy.html">&lt;p&gt;Voice control and privacy; for devices such as Alexa and Google Home to become commonplace a lot of privacy concerns have to be addressed and raised.&lt;/p&gt;
+
+&lt;p&gt;Case in point, Alexa being used in a murder investigation in the USA. There, law enforcement are counting on the fact that Amazon’s storage of all voice conversations it records to Amazon’s servers are not anonymised.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Amazon’s Echo devices and its virtual assistant are meant to help find answers by listening for your voice commands. However, police in Arkansas want to know if one of the gadgets overheard something that can help with a murder case. According to The Information, authorities in Bentonville issued a warrant for Amazon to hand over any audio or records from an Echo belonging to James Andrew Bates. Bates is set to go to trial for first-degree murder for the death of Victor Collins next year…&lt;/p&gt;
+
+  &lt;p&gt;Police say they were able to pull data off of the speaker, but it’s unclear what info they were able to access. Due to the so-called always on nature of the connected device, the authorities are after any audio the speaker may have picked up that night. &lt;em&gt;– &lt;a href=&quot;https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/&quot;&gt;Engadget&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Watch this space. A lack of privacy and the idea that &lt;a href=&quot;http://paleofuture.gizmodo.com/the-fbi-can-neither-confirm-nor-deny-wiretapping-your-a-1776092971&quot;&gt;“they” are listening&lt;/a&gt; in to both our most private and banal moments has the potential to derail the take up of voice first, home control interfaces.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="connected-home" /><category term="voice" /><category term="privacy" /><summary type="html">Voice control and privacy; for devices such as Alexa and Google Home to become commonplace a lot of privacy concerns have to be addressed and raised.</summary></entry><entry><title type="html">Amazon Go away jobs.</title><link href="https://danielpdykes.com/technology/amazon-go.html" rel="alternate" type="text/html" title="Amazon Go away jobs." /><published>2016-12-25T15:33:36+00:00</published><updated>2016-12-25T15:33:36+00:00</updated><id>https://danielpdykes.com/technology/amazon-go</id><content type="html" xml:base="https://danielpdykes.com/technology/amazon-go.html">&lt;p&gt;We all understand that automated cars will make taxi drivers an anachronism, that ‘fast food server’ soon won’t be a job, and that 3.5 million professional truck drivers in the USA will soon be unemployed. And now, here’s Amazon Go: a view of the present (not the future) where your supermarkets and hypermarkets are staffed only by a few shelf stackers, a cleaner, and a loss prevention officer. No cashier. No other staff. Until, of course, such a time comes as the shelf stackers, cleaners and loss prevention officer can also be replaced by a machine.&lt;/p&gt;
+
+&lt;p&gt;The need for universal income marches on.&lt;/p&gt;
+
+&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube-nocookie.com/embed/NrmMk1Myrxc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Daniel P Dykes</name></author><category term="technology" /><category term="Amazon" /><summary type="html">We all understand that automated cars will make taxi drivers an anachronism, that ‘fast food server’ soon won’t be a job, and that 3.5 million professional truck drivers in the USA will soon be unemployed. And now, here’s Amazon Go: a view of the present (not the future) where your supermarkets and hypermarkets are staffed only by a few shelf stackers, a cleaner, and a loss prevention officer. No cashier. No other staff. Until, of course, such a time comes as the shelf stackers, cleaners and loss prevention officer can also be replaced by a machine.</summary></entry><entry><title type="html">IOT isn’t about connected devices. It’s about convergence.</title><link href="https://danielpdykes.com/connected-home/smart-home-covergence.html" rel="alternate" type="text/html" title="IOT isn’t about connected devices. It’s about convergence." /><published>2016-06-27T16:33:36+01:00</published><updated>2016-06-27T16:33:36+01:00</updated><id>https://danielpdykes.com/connected-home/smart-home-covergence</id><content type="html" xml:base="https://danielpdykes.com/connected-home/smart-home-covergence.html">&lt;p&gt;I was recently tapped to present at Huawei Connect 2016 where ‘the ecosystem of the Internet of Things’ was the keynote topic du jour. Not so from my speech. Instead I talked about an element of IoT that receives far too little attention: convergence and the emergence of the invisible connected-world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/future-of-iot.jpeg&quot; alt=&quot;future of iot&quot; /&gt;&lt;em&gt;&lt;small&gt;IoT isn’t the future. And yet it is.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What follows is the original draft of that speech, re-formatted for a written medium.&lt;/p&gt;
+
+&lt;h2 id=&quot;iot-and-smart-homes&quot;&gt;IOT and smart homes.&lt;/h2&gt;
+
+&lt;p&gt;The World Economic Forum have labelled connected devices a part of the 4th Industrial Revolution&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. That’s in itself is huge. And I’d like to speak to you about that today from the perspective of 10 years of working across the connected home industry.&lt;/p&gt;
+
+&lt;p&gt;10 years is how long Aeon Labs have lead the development of smart home accessories. Through a market-ready range of Aeotec products, along with OEM and ODM services, Aeon Labs has engineered, designed and manufactured a range of smart-home products that are now available in over 83 countries. And we’ve designed the products that power IoT’s leading solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/aeotec-partners.jpeg&quot; alt=&quot;aeotec partners&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;10 years is also how long I’ve worked in the connected-home space. First, introducing wireless, smart home technology into the Australian consumer market. And now, amongst those taking the connected home global.&lt;/p&gt;
+
+&lt;p&gt;So I’m speaking to you today from a position of both personal experience, and of Aeon Labs’ decade worth of experience of working at the cutting-edge of the smart home.&lt;/p&gt;
+
+&lt;p&gt;Despite that, I don’t actually want to talk to you about smart homes. I want to speak about convergence. When I started working in the smart home industry 10 years ago, the term IoT hadn’t even been invented. Neither had the smart phone. 10 years ago, when we wanted to use the Internet we used a computer, we didn’t stream television shows, Wii became a revolution because there was finally a games machine that got children to move more than just their thumbs, and digital compact cameras were fast becoming a best seller.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/consumer-electronics.jpeg&quot; alt=&quot;consumer electronics&quot; /&gt;&lt;em&gt;&lt;small&gt;‘Recent’ history of electronic consumer goods.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now we browse the Internet via our phone, we can binge watch TV shows on our phone, the world’s most popular gaming machine is a phone, and digital compact cameras have all but given way to phones. Naturally, that phone is the smart phone. Convergence. All in one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/smart-phone-convergence.jpeg&quot; alt=&quot;smart phone convergence&quot; /&gt;&lt;em&gt;&lt;small&gt;The result of convergence: everything in one; product definitions blur.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Convergence is the future of all useful technology. And it occurs without us even realising. More and more, people don’t even know when they’re using the Internet — in Indonesia, 11% of adults don’t believe that social networking apps use the Internet because they perceive “the Internet” as something you need a computer for&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and you see similar statistics repeated in parts of Africa. So, in their minds, if they’re not using a computer they couldn’t possibly be using the Internet. You and I know differently. We know that apps need data. We know that data pipes across the Internet. And we know that this paradigm shift that people are experiencing is caused by convergence.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/apps-are-not-the-internet.jpeg&quot; alt=&quot;apps are not the internet&quot; /&gt;&lt;em&gt;&lt;small&gt;11% of adults in Indonesia don’t feel that smart phone apps use the Internet for data.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But convergence is more than the future of your phone, the Internet, and the media we consume. It’s the future of your home. Right now, we think of the smart home as something separate. As it’s our own category. As such, the IoT industry sell hubs and accessories. But it won’t be that way for long, because the mass market buys solutions and not gadgets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/smart-device-penetration.jpeg&quot; alt=&quot;smart device market penetration&quot; /&gt;&lt;em&gt;&lt;small&gt;19% of broadband users own a smart device, but 50% want one in a $60 billion market.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Home owners don’t want to control their lights from an app, they want real solutions. And there are a lot of solutions that can be addressed: above you can see statistics from the USA where connected people want to actively invest in more connections&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. And from research and experience we already know what some of these connected solutions are: people want smart security systems, homes that can take care of their elderly parents, and systems that prevent disasters such as floods and fires&lt;sup id=&quot;fnref:3:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. That is, they want actual solutions and not connected gimmicks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/smart-lighting-market-share.jpeg&quot; alt=&quot;smart lighting market share&quot; /&gt;&lt;em&gt;&lt;small&gt;Only 30% of people want app driven lighting control.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But instead of impactful solutions, smart home offerings to date have largely focussed on controlling your home from an app — and let’s face it, most apps are little more than a complication of the user experience that a light switch already offers. For most people, controlling your lights from an app isn’t an enhancement, it’s a pain. Hence companies working at the cutting edge of the connected home, such as Aeon Labs and Huawei, are shifting their focus from attention grabbing devices to solutions that actually deliver on what consumers want. As Wayne Gretzky quoted, and Steve Jobs popularised, we’re “skating to where the puck is going to be” and not to where IoT used to be.&lt;/p&gt;
+
+&lt;p&gt;Security and safety are the first wave of mass adopted IoT. That’s how convergence works. In waves, where two existing ideas come together to create something new. The mobile phone and the Internet come together to create the smart phone, and a decade later the smart phone and home security are coming together to create the smart security system. And we know that more than 50% of homeowners want it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/smart-security-system-market-size.jpeg&quot; alt=&quot;smart security system market size&quot; /&gt;
+&lt;em&gt;&lt;small&gt;The size of the smart security system market in the USA.&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But only 5% currently own one. Why?&lt;/p&gt;
+
+&lt;p&gt;Because so few companies offer them. And that’s where opportunity exists. Convergence creates 2 things: disruption and opportunity. Amongst the audience today are people from telephone and utility companies — these are companies that don’t traditionally offer security solutions. And I’d like to ask, why not? After all, smart security systems are a connectivity service, and service providers excel at providing connectivity — that’s what people trust service providers to do — to keep them connected to something. And soon, as long as the provider has the right solution, consumers will trust their service providers to keep more and more parts of their home and life fully connected. And if the companies they trust fail to keep up, consumers will simply find new service providers. Because just as disruption provides industries with new opportunities, so too does it destroy established players in the market who fail to keep up. As Uber laid waste to taxi companies globally, so too shall IoT lay waste to service providers who fail to offer the connected solutions that people want to benefit from.&lt;/p&gt;
+
+&lt;p&gt;You’ll see that I keep using the word “solution.” and that’s why I didn’t want to talk you about the “smart home” today. Because smart home is a loaded phrase. You think of it and you think of connected lighting and a coffee machine that makes a terrible cup of coffee before you wake up each morning. If a solution tells you about how it makes your morning coffee, it’s failed. Because consumers want real benefits, and consumer demand, along with all these new technologies, is what’s driving the convergence and disruption that we can build the 4th industrial revolution upon.&lt;/p&gt;
+
+&lt;p&gt;And what kind of opportunities are there in the 4th industrial revolution? Well I’ve already touched on just how big an opportunity smart home security is and how non-traditional players can offer it. But think of other industries that are on the verge of change and disruption because of the Internet of things.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/huawei-speech/smart-home-device-wants.jpeg&quot; alt=&quot;smart home device consumer demand&quot; /&gt;
+&lt;em&gt;&lt;small&gt;What people want from the Internet of Things and their smart homes.&lt;/small&gt;&lt;/em&gt;s&lt;/p&gt;
+
+&lt;p&gt;The insurance industry. In home care. The aging population and the silver tidal wave. Connected cars and transport. Each of these are entire industries that typically offer the world little in technological innovation when it comes to connectivity. And yet each of them aren’t only going to come to depend on connected devices, the people who use their products are going to demand it.&lt;/p&gt;
+
+&lt;p&gt;So where does that leave us all?&lt;/p&gt;
+
+&lt;p&gt;Back where the smart home and the Internet of Things should always have started. With real solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/ &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;http://www.parksassociates.com/blog/article/pr-08022016 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;https://www.icontrol.com/wp-content/uploads/2015/06/Smart_Home_Report_2015.pdf &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Daniel P Dykes</name></author><category term="connected-home" /><category term="privacy" /><category term="security" /><summary type="html">I was recently tapped to present at Huawei Connect 2016 where ‘the ecosystem of the Internet of Things’ was the keynote topic du jour. Not so from my speech. Instead I talked about an element of IoT that receives far too little attention: convergence and the emergence of the invisible connected-world.</summary></entry><entry><title type="html">Hiding your home on the dark web: the emerging IoT privacy industry.</title><link href="https://danielpdykes.com/connected-home/smart-home-privacy-dark-web.html" rel="alternate" type="text/html" title="Hiding your home on the dark web: the emerging IoT privacy industry." /><published>2016-06-22T16:33:36+01:00</published><updated>2016-06-22T16:33:36+01:00</updated><id>https://danielpdykes.com/connected-home/smart-home-privacy-dark-web</id><content type="html" xml:base="https://danielpdykes.com/connected-home/smart-home-privacy-dark-web.html">&lt;p&gt;I’ve riffed before on privacy and IoT. Once truly connected homes move past the stage of early adoption, you’ll hear much about privacy and security. The privacy of who can tap into your home’s data to know what you’re doing and when you’re home. The security of preventing hackers from being able to hack into your home. The senationalist press will wax lyrical about hackers being able to open your front door or watch you while you’re sleeping like some perverted Santa Claus.&lt;/p&gt;
+
+&lt;p&gt;IoT security and IoT privacy will become their own subindustries. They’re also going to become passion projects, akin to open-source projects such as Home Assistant.&lt;/p&gt;
+
+&lt;p&gt;In an area that few people are paying attention to, Tor is &lt;a href=&quot;https://home-assistant.io/cookbook/tor_configuration/&quot;&gt;amongst the first out of the gate&lt;/a&gt;. Now your connected home can live on the dark web (alongside arms and drug dealers). It’s still far too complex for the average home owner to setup, but so are most IoT offerings in spite of the industry’s growth.&lt;/p&gt;
+
+&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube-nocookie.com/embed/j2yT-0rmgDA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Daniel P Dykes</name></author><category term="connected-home" /><category term="privacy" /><category term="security" /><summary type="html">I’ve riffed before on privacy and IoT. Once truly connected homes move past the stage of early adoption, you’ll hear much about privacy and security. The privacy of who can tap into your home’s data to know what you’re doing and when you’re home. The security of preventing hackers from being able to hack into your home. The senationalist press will wax lyrical about hackers being able to open your front door or watch you while you’re sleeping like some perverted Santa Claus.</summary></entry><entry><title type="html">Robots and the convergence of the connected home and AI.</title><link href="https://danielpdykes.com/connected-home/smart-home-robots.html" rel="alternate" type="text/html" title="Robots and the convergence of the connected home and AI." /><published>2016-06-21T16:33:36+01:00</published><updated>2016-06-21T16:33:36+01:00</updated><id>https://danielpdykes.com/connected-home/smart-home-robots</id><content type="html" xml:base="https://danielpdykes.com/connected-home/smart-home-robots.html">&lt;p&gt;One of the largest problems facing the adoption of the connected-home is that the category doesn’t necessarily provide owners with a lot of value. The typical smart home system is sold with a pitch of “your home on your phone.” Most of us don’t need that. We don’t need to install a $3,000 connected-home system when our light switches work just fine. We don’t need to spend money to do something that we can already do and do easier.&lt;/p&gt;
+
+&lt;p&gt;That’s why IoT and security systems are such great bedfellows: the former enhances the latter, and the latter provides real value that home owners are actively looking for.&lt;/p&gt;
+
+&lt;p&gt;To succeed, IoT needs to bring obvious value. For those looking at the eventual convergence of IoT and AI, keep an eye on the likes of OpenAI, a non-profit backed by the likes of Elon Musk. One of OpenAI’s stated goals is to create a platform that could power a robot “to perform basic housework” chores.&lt;/p&gt;
+
+&lt;p&gt;Intelligence. Outcome. Benefits.&lt;/p&gt;
+
+&lt;p&gt;Like all things connected-home, it would start out slow. We’re years away from robots handling our chores to the degree of Rosie in The Jetsons. But with the likes of Roomba already popular, and the ability to really revolutionise the other dull household chores that all detract from quality of life, the potential is there. And so are most of the gadgets already. We just have to intelligently connect them.&lt;/p&gt;</content><author><name>Daniel P Dykes</name></author><category term="connected-home" /><category term="apple" /><category term="privacy" /><category term="voice" /><summary type="html">One of the largest problems facing the adoption of the connected-home is that the category doesn’t necessarily provide owners with a lot of value. The typical smart home system is sold with a pitch of “your home on your phone.” Most of us don’t need that. We don’t need to install a $3,000 connected-home system when our light switches work just fine. We don’t need to spend money to do something that we can already do and do easier.</summary></entry></feed>
